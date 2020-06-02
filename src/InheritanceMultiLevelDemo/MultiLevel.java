@@ -9,7 +9,7 @@ class Paddys extends MultiLevel{
     public void Yellow(){
         System.out.println("Yellow haired people are bimbos");
     }
-}
+}//changes 2
 class Coral extends MultiLevel{
     public void Black(){
         System.out.println("Blacks are the lowest");
